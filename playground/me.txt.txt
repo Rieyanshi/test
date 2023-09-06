@@ -1,5 +1,0 @@
-{{#user}}
-Name: Rieyanshi Sharma
-Skills: HTML, CSS, JS, React.js. Android Studio, Java
-Email: rieyanshis@gmail.com
-{{/user}}
